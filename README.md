@@ -50,3 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Enjoy your journey through the stars with SpaceArena! 🚀✨
 
 Feel free to customize this content according to your preferences and add any additional information or sections you find relevant.
+
+
+![Screenshot 2024-07-11 202335](https://github.com/user-attachments/assets/58a5065b-0673-436a-97c5-0cc0fdc404f5)
+
